@@ -1,0 +1,9 @@
+body  {
+  background-image: url("https://cdn.pixabay.com/photo/2016/10/29/09/53/abstract-1780276_1280.png");
+  background-color: #cccccc;
+}
+div {
+  border: 1px solid black;
+  padding: 25px;
+  background-color: #ce5151;
+}
