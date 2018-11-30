@@ -7,3 +7,35 @@ div {
   padding: 25px;
   background-color: #ce5151;
 }
+ #content {
+  overflow: auto;}
+#nav, #feature, #footer {
+  margin: 1%;}
+.column1, .column2, .column3 {
+  width: 31.3%;
+  float: left;
+  margin: 1%}
+.column3 {
+  margin-right: 0%;}
+li {
+  display: inline;
+  padding: 0.5em;}
+#nav, #footer {
+  background-color: #723030;
+  padding: 0.5em 0;}
+
+#feature, .article {
+  
+height: 10em;
+  margin-bottom: 1em;
+  background-color: #ae9494
+  }
+
+#feature {
+  background-color: #8CC63E;
+  background-image: url("https://cdn.pixabay.com/photo/2017/12/20/18/42/rose-3030462_1280.jpg");
+  background-size:auto;
+  background-position: center;
+  background-repeat:no-repeat;
+}
+
